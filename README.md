@@ -38,4 +38,4 @@ Uma página responsiva inspirada em Netflix e Prime Video, onde o usuário escol
 
 ---
 
-**Desenvolvido durante a Imersão Alura**
+**Desenvolvimento ainda em andamento**
